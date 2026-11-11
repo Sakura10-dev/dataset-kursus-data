@@ -1,0 +1,32 @@
+ID_Transaksi,Tanggal,Bulan,Kota,Kategori,Produk,Jumlah_Pesanan,Harga_Satuan,Total_Pendapatan,Metode_Pembayaran,Rating_Pelanggan
+TRX-001,2026-01-05,Jan,Jakarta,Elektronik,Wireless Mouse,3,150000,450000,E-Wallet,4.8
+TRX-002,2026-01-08,Jan,Surabaya,Fashion,Kemeja Flanel,2,220000,440000,Transfer Bank,4.5
+TRX-003,2026-01-12,Jan,Bandung,Rumah Tangga,Blender Portable,4,180000,720000,Kartu Kredit,4.7
+TRX-004,2026-01-18,Jan,Makassar,Elektronik,Mechanical Keyboard,2,450000,900000,E-Wallet,4.9
+TRX-005,2026-01-24,Jan,Medan,Fashion,Sepatu Sneakers,1,550000,550000,COD,4.2
+TRX-006,2026-02-03,Feb,Jakarta,Rumah Tangga,Air Fryer Mini,2,650000,1300000,Kartu Kredit,4.8
+TRX-007,2026-02-09,Feb,Bandung,Elektronik,TWS Earbuds,5,250000,1250000,E-Wallet,4.6
+TRX-008,2026-02-14,Feb,Surabaya,Fashion,Tas Selempang,3,190000,570000,E-Wallet,4.4
+TRX-009,2026-02-20,Feb,Jakarta,Elektronik,Webcam HD,2,320000,640000,Transfer Bank,4.5
+TRX-010,2026-02-26,Feb,Makassar,Rumah Tangga,Set Pisau Dapur,4,140000,560000,COD,4.3
+TRX-011,2026-03-04,Mar,Surabaya,Elektronik,Smartwatch Sport,2,750000,1500000,Kartu Kredit,4.9
+TRX-012,2026-03-10,Mar,Jakarta,Fashion,Jaket Denim,3,310000,930000,E-Wallet,4.7
+TRX-013,2026-03-15,Mar,Medan,Rumah Tangga,Vacuum Cleaner Handheld,1,480000,480000,Transfer Bank,4.1
+TRX-014,2026-03-21,Mar,Bandung,Fashion,Kaos Polos Premium,6,95000,570000,E-Wallet,4.6
+TRX-015,2026-03-28,Mar,Jakarta,Elektronik,Powerbank 20000mAh,4,280000,1120000,E-Wallet,4.8
+TRX-016,2026-04-02,Apr,Makassar,Fashion,Gamis Modern,3,340000,1020000,Transfer Bank,4.8
+TRX-017,2026-04-08,Apr,Jakarta,Rumah Tangga,Dispenser Galon Bawah,1,1250000,1250000,Kartu Kredit,4.9
+TRX-018,2026-04-14,Apr,Surabaya,Elektronik,Monitor 24 Inch,1,1850000,1850000,Kartu Kredit,5.0
+TRX-019,2026-04-19,Apr,Bandung,Rumah Tangga,Lampu Meja LED,5,110000,550000,E-Wallet,4.5
+TRX-020,2026-04-25,Apr,Medan,Elektronik,USB Hub Type-C,4,175000,700000,COD,4.4
+TRX-021,2026-05-03,Mei,Jakarta,Fashion,Celana Chino,4,210000,840000,E-Wallet,4.6
+TRX-022,2026-05-09,Mei,Surabaya,Rumah Tangga,Panci Listrik Serbaguna,3,230000,690000,E-Wallet,4.7
+TRX-023,2026-05-15,Mei,Bandung,Elektronik,Speaker Bluetooth,2,390000,780000,Transfer Bank,4.8
+TRX-024,2026-05-21,Mei,Makassar,Fashion,Topi Baseball,5,85000,425000,COD,4.3
+TRX-025,2026-05-27,Mei,Jakarta,Elektronik,SSD Eksternal 512GB,2,890000,1780000,Kartu Kredit,4.9
+TRX-026,2026-06-04,Jun,Surabaya,Fashion,Kacamata Hitam,3,160000,480000,E-Wallet,4.5
+TRX-027,2026-06-11,Jun,Jakarta,Rumah Tangga,Rak Sepatu Susun,4,135000,540000,E-Wallet,4.4
+TRX-028,2026-06-16,Jun,Medan,Elektronik,Router WiFi 6,2,620000,1240000,Transfer Bank,4.7
+TRX-029,2026-06-22,Jun,Bandung,Fashion,Tas Ransel Laptop,3,290000,870000,Kartu Kredit,4.8
+TRX-030,2026-06-28,Jun,Jakarta,Elektronik,Tablet Android 10 Inch,1,2450000,2450000,Kartu Kredit,4.9
+
